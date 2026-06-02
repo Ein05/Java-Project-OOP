@@ -2,6 +2,9 @@
 
 Hệ thống Quản lý Chuỗi Cung ứng Thời trang được chuyển đổi và nâng cấp từ dự án gốc **CafeShopManagementSystem**. 
 
+<img width="618" height="347" alt="image" src="https://github.com/user-attachments/assets/54767bf7-fa57-412a-850a-1b37aad415af" />
+
+
 Dự án này sử dụng khung JavaFX và kết nối cơ sở dữ liệu MySQL, được thiết kế lại giao diện tối cao cấp (Slate Dark & Indigo Violet) và bổ sung các tính năng quản lý quần áo chuyên sâu (như lựa chọn **Kích thước/Size**, **Màu sắc/Color** và phân loại ngành hàng thời trang).
 
 ---
