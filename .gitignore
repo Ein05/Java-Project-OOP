@@ -1,0 +1,22 @@
+# NetBeans build output
+fashionSupplyChainManagementSystem/build/
+fashionSupplyChainManagementSystem/dist/
+
+# NetBeans IDE project cache
+fashionSupplyChainManagementSystem/nbproject/private/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Log files
+*.log
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
